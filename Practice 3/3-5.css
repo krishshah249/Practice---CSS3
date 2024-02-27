@@ -1,0 +1,69 @@
+#d1
+{
+	font-family: armenian;
+	font-size: 20px;
+	font-style: italic;
+	text-indent: 40px;
+}
+
+#d2
+{
+	font-family:Times;
+	font-size: 15px;
+	font-style:oblique;
+	text-indent: 10px;
+}
+
+#d3
+{
+	font-family: armenian;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
+
+#p1
+{
+	font-family: armenian;
+	font-size: 20px;
+	font-style: oblique;
+	text-decoration: overline
+}
+
+#p2
+{
+	font-family: Arial;
+	font-size: 10px;
+	font-style: italic;
+	text-decoration: line-through;
+}
+
+
+#p3
+{
+	font-family: armenian;
+	font-size: 10px;
+	font-style: italic;
+	text-indent: 40px;
+}
+
+
+#p4
+{
+	font-family: arial;
+	font-size: 30px;
+	font-style: absolute;
+	text-indent: 40px;
+}
+
+#p5
+{
+	font-family: azimuth;
+	font-size: 20px;
+	font-weight: bold;
+	text-indent: 40px;
+}
+
+
+
+ 
